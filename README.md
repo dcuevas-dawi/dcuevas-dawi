@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Danie Cuevas Naharro</h1>
+<h1 align="center">Hi 👋, I'm Daniel Cuevas Naharro</h1>
 <h3 align="center">A student of web development from Mallorca, Spain</h3>
 
 - 🌱 I’m currently learning **all about web codding**
