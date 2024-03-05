@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning **all about web coding**
 
 <h3 align="left">Connect with me:</h3>
+dcuevasnaharro@cifpfbmoll.eu
 <p align="left">
 </p>
 
